@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #bdc3c7;
+    padding-bottom: 5px;
+}
+
+#array-container pre {
+    background-color: #ecf0f1;
+    border: 1px solid #bdc3c7;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: monospace; 
+    font-size: 14px;
+    white-space: pre-wrap; 
+}
+
+.card-time {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    max-width: 350px;
+    border-left: 5px solid #ccc; 
+}
+
+.card-vermelho {
+    border-left-color: #e74c3c; 
+}
+
+.card-azul {
+    border-left-color: #3498db;
+}
+
+.card-amarelo {
+    border-left-color: #f1c40f; 
+}
+
+.card-time h3 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+.card-time p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.brasao {
+    width: 100px; 
+    height: auto;
+    margin-top: 10px;
+}
